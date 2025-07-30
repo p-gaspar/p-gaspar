@@ -1,1 +1,3 @@
-<h3 border="none" style="border: none !important; font-size: 40px !important; margin: 0; padding: 0;">Hi there 👋</h1>
+# Hi there 🔆
+
+![My Skills](https://skillicons.dev/icons?i=angular,ts,tailwind,dotnet,cs,docker,postgres,rider,webstorm&theme=light)
